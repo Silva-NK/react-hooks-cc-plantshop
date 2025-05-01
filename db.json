@@ -1,46 +1,64 @@
 {
   "plants": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Aloe",
       "image": "./images/aloe.jpg",
       "price": 15.99
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "ZZ Plant",
       "image": "./images/zz-plant.jpg",
       "price": 25.98
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Pilea peperomioides",
       "image": "./images/pilea.jpg",
       "price": 5.99
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Pothos",
       "image": "./images/pothos.jpg",
       "price": 12.11
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Jade",
       "image": "./images/jade.jpg",
       "price": 10.37
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Monstera Deliciosa",
       "image": "./images/monstera.jpg",
       "price": 25.99
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "id": "8",
+      "name": "Black Calla Lillies",
+      "image": "https://fiftyflowers.com/cdn/shop/products/Plum-Perfection-Black-Forest-Calla-Bunch-in-vase-3-350_a7e2fe2c.jpg?v=1683165721&width=800",
+      "price": 68.99
+    },
+    {
+      "id": "9",
+      "name": "Snake Plant",
+      "image": "https://www.myjunglehome.com.au/cdn/shop/products/sansevieria-laurentii-snake-plant-25cm-pot-my-jungle-home-160415.jpg?v=1632920069",
+      "price": 40
+    },
+    {
+      "id": "062f",
+      "name": "100 year Bonsai",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk2924MlbY8yEg8bFKkrerY1TJxl5qrKU2_w&s",
+      "price": "1000"
     }
   ]
 }
